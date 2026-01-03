@@ -26,3 +26,14 @@ The research involved reviewing and synthesizing findings from **multiple peer-r
 This review informed the experimental design and evaluation strategy.
 
 ---
+
+## 🧠 Core Concepts Explored
+
+- Wasserstein (Earth Mover’s) Distance
+- Critic vs Discriminator architectures
+- Lipschitz continuity constraints
+- Gradient penalty vs weight clipping
+- Training stability and convergence behavior
+- Loss interpretability and optimization dynamics
+
+---

@@ -6,3 +6,12 @@ The study focuses on understanding **training instability in traditional GANs** 
 
 ---
 
+## 📌 Research Objective
+
+The primary goal of this project was to:
+- Analyze the theoretical foundations of WGANs
+- Compare WGAN variants against traditional GAN training dynamics
+- Investigate stability, convergence behavior, and loss interpretability
+- Propose practical insights and improvements based on empirical findings
+
+---

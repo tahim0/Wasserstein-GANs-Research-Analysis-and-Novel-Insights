@@ -1,2 +1,8 @@
-# Wasserstein-GANs-Research-Analysis-and-Novel-Insights
-A collaborative mini-research project analyzing Wasserstein GANs (WGANs) through extensive literature review and experimental evaluation. Explores training stability, loss behavior, gradient penalties, and convergence characteristics, proposing insights to improve generative model robustness.
+# Wasserstein GANs: Research Analysis & Insights
+
+This repository presents a **mini research project on Wasserstein Generative Adversarial Networks (WGANs)**, conducted through an in-depth review of foundational and contemporary research papers combined with experimental evaluation and analytical insights.
+
+The study focuses on understanding **training instability in traditional GANs** and how the **Wasserstein distance formulation** improves convergence, gradient behavior, and generative performance.
+
+---
+

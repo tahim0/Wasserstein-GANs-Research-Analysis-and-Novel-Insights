@@ -37,3 +37,12 @@ This review informed the experimental design and evaluation strategy.
 - Loss interpretability and optimization dynamics
 
 ---
+
+## 🔬 Experimental Evaluation
+
+- Compared GAN and WGAN training behaviors under controlled settings
+- Analyzed loss curves, convergence speed, and gradient stability
+- Observed reduced mode collapse and smoother optimization trajectories in WGAN-based models
+- Evaluated the impact of gradient penalty on training robustness
+
+---

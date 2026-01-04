@@ -64,3 +64,7 @@ This review informed the experimental design and evaluation strategy.
 - Exposure to stability challenges in deep generative models
 
 ---
+
+## 📜 License
+
+This repository is intended for educational and research purposes.

